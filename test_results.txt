@@ -1,0 +1,9 @@
+=== Manual Test of Price Extraction ===
+
+Test Response:
+{"code" : 200,"msg" : "success","data" : {"make_offer" : false,"name_utf" : "aaadapter.com","show_whois" : false,"value" : 1234}}
+
+Extracting price...
+Extracted price: 1234
+
+SUCCESS: Price extracted = 1234
